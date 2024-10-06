@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "705263080417",
+    "firebase_url": "https://sonartik-a7222-default-rtdb.firebaseio.com",
+    "project_id": "sonartik-a7222",
+    "storage_bucket": "sonartik-a7222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705263080417:android:2a95178b2b92059d42b8a0",
+        "android_client_info": {
+          "package_name": "com.example.filmler_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ2a41STGWiGnly3c-88a66lXLlMPgrng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705263080417:android:ca7ac5ddd98ccee042b8a0",
+        "android_client_info": {
+          "package_name": "com.example.notlar_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ2a41STGWiGnly3c-88a66lXLlMPgrng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705263080417:android:f82b67245880e00542b8a0",
+        "android_client_info": {
+          "package_name": "com.example.rehber_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ2a41STGWiGnly3c-88a66lXLlMPgrng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705263080417:android:79295da222462b4f42b8a0",
+        "android_client_info": {
+          "package_name": "com.example.sozluk_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ2a41STGWiGnly3c-88a66lXLlMPgrng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
